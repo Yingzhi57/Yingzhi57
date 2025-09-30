@@ -1,4 +1,4 @@
-## Hi, I im Yingzhi 👋
+## Hi, I'm Yingzhi 👋
 
 I am recent First-Class Mathematics graduate from University College London, now preparing for my master’s studies at Imperial College London. My academic background has given me a strong foundation in probability, statistics, optimization, and computational methods, while my research projects have focused on areas such as financial risk modelling and nonlinear dynamics. These experiences have shaped my analytical mindset and strengthened my ability to approach complex problems with both theoretical rigor and practical implementation.
 

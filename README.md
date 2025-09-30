@@ -12,6 +12,10 @@ My academic background has given me a strong foundation in probability, statisti
 - Languages: English (fluent), Chinese (Native)
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yingzhi-zhang-wendy/)
 
+------
+last updated: 2024-09-31
+
+
 <!--
 **Yingzhi57/Yingzhi57** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

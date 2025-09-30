@@ -13,7 +13,7 @@ My academic background has given me a strong foundation in probability, statisti
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/yingzhi-zhang-wendy/)
 
 ------
-last updated: 2024-09-31
+last updated: 2025-09-30
 
 
 <!--
